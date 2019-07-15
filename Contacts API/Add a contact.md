@@ -9,7 +9,7 @@
 <pre><code>POST</code></pre>
 <h2>HTTP Request</h2>
 <pre><code>https://app.gateway.smsend.it/API/v1.0/REST/contact</code></pre>
-<h2>Parameters</h2>
+<h2>Body Fields</h2>
 <table>
 								<tbody><tr>
 								  <th>Parameter</th>
