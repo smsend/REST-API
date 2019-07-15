@@ -48,6 +48,12 @@
       <li>
         Registration of a contact to a list
       </li>
+      <li>
+        List contact’s custom fields
+      </li>
+      <li>Add contact to sms blacklist</li>
+      <li>Add multiple contacts to sms blacklist</li>
+      <li>Add phone number to sms blacklist</li>
     </ul>
   </li>
   <li>
