@@ -7,9 +7,6 @@
       This section describes how to authenticate requests to the smSend API. All API methods require authentication.</p>
     <ul>
       <li>
-        Authentication  methods
-      </li>
-      <li>
         Authentication  using a session key
       </li>
       <li>
