@@ -56,8 +56,3 @@
     </tr>
   </tbody>
 </table>
-<h2>Code example</h2>
-<pre><code># Session Key example
-curl -XGET 'http://app.gateway.smsend.it/API/v1.0/REST/login?username={username}&password={password}' -H 'Content-Type: application/json'</code></pre>
-<pre><code># Access token example
-curl -XGET 'http://app.gateway.smsend.it/API/v1.0/REST/login?username={username}&password={password}' -H 'Content-Type: application/json'</code></pre>
