@@ -1,5 +1,7 @@
+<a href="https://www.smsend.it/rest-api/" title="smSend developer guide"><img src="https://www.smsend.it/img/visual/smsend-developers.jpg" alt="smSend developer guide" title="smSend developer guide"></a>
 <h1><b>smSend Rest-API</b></h1>
-<p>The API is divided into subsections for each languages, which are briefly described below.</p>
+<a href="https://www.smsend.it/rest-api/" title="smSend developer guide">smsend.it</a>
+<p>The API is divided into subsections, which are briefly described below.</p>
 <p>For details about each section, please refer to the respective section and languages.</p>
 <ol>
   <li>
