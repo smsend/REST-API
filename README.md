@@ -12,7 +12,7 @@
         <a href="https://github.com/smsend/REST-API/blob/master/Authentication%20API/Authenticate%20using%20a%20session%20key.md">Authentication  using a session key</a>
       </li>
       <li>
-        Authentication  using a user token
+        <a href="https://github.com/smsend/REST-API/blob/master/Authentication%20API/Authenticate%20using%20a%20user%20token.md">Authentication  using a user token</a>
       </li>
     </ul>
   </li>
