@@ -21,16 +21,16 @@
       The following are utility functions regarding the Authenticated User (e.g. the user status, password reset, etc)</p>
     <ul>
       <li>
-        Dashboard
+        <a href="https://github.com/smsend/REST-API/blob/master/User%20API/Dashboard.md">Dashboard</a>
       </li>
       <li>
-        Verify session
+        <a href="https://github.com/smsend/REST-API/blob/master/User%20API/Verify%20session.md">Verify session</a>
       </li>
       <li>
-        Reset password
+        <a href="https://github.com/smsend/REST-API/blob/master/User%20API/Reset%20password.md">Reset password</a>
       </li>
       <li>
-        User status
+        <a href="https://github.com/smsend/REST-API/blob/master/User%20API/User%20status.md">User status</a>
       </li>
     </ul>
   </li>
@@ -39,23 +39,23 @@
       This part of the API is used to manage contacts. A contact can be used both in SMS and Email sending, provided that a phone number and/or an email address are given.</p>
     <ul>
       <li>
-        Add a contact
+        <a href="https://github.com/smsend/REST-API/blob/master/Contacts%20API/Add%20a%20contact.md">Add a contact</a>
       </li>
       <li>
-        Add multiple contacts
+        <a href="https://github.com/smsend/REST-API/blob/master/Contacts%20API/Add%20multiple%20contacts.md">Add multiple contacts</a>
       </li>
       <li>
-        Get a contact
+        <a href="https://github.com/smsend/REST-API/blob/master/Contacts%20API/Get%20a%20contact.md">Get a contact</a>
       </li>
       <li>
-        Registration of a contact to a list
+        <a href="https://github.com/smsend/REST-API/blob/master/Contacts%20API/Registration%20of%20a%20contact%20to%20a%20list.md">Registration of a contact to a list</a>
       </li>
       <li>
-        List contact’s custom fields
+        <a href="https://github.com/smsend/REST-API/blob/master/Contacts%20API/List%20contact%E2%80%99s%20custom%20fields.md">List contact’s custom fields</a>
       </li>
-      <li>Add contact to sms blacklist</li>
-      <li>Add multiple contacts to sms blacklist</li>
-      <li>Add phone number to sms blacklist</li>
+      <li><a href="https://github.com/smsend/REST-API/blob/master/Contacts%20API/Add%20contact%20to%20sms%20blacklist.md">Add contact to sms blacklist</a></li>
+      <li><a href="https://github.com/smsend/REST-API/blob/master/Contacts%20API/Add%20multiple%20contacts%20to%20sms%20blacklist.md">Add multiple contacts to sms blacklist</a></li>
+      <li><a href="https://github.com/smsend/REST-API/blob/master/Contacts%20API/Add%20phone%20number%20to%20sms%20blacklist.md">Add phone number to sms blacklist</a></li>
     </ul>
   </li>
   <li>
