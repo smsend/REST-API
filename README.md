@@ -43,6 +43,9 @@
         Add a contact
       </li>
       <li>
+        Add multiple contacts
+      </li>
+      <li>
         Get a contact
       </li>
       <li>
