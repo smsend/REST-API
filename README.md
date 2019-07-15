@@ -9,7 +9,7 @@
       This section describes how to authenticate requests to the smSend API. All API methods require authentication.</p>
     <ul>
       <li>
-        Authentication  using a session key
+        <a href="https://github.com/smsend/REST-API/blob/master/Authentication%20API/Authenticate%20using%20a%20session%20key.md">Authentication  using a session key</a>
       </li>
       <li>
         Authentication  using a user token
